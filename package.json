@@ -4,6 +4,6 @@
     "cocktail-api-search": "^1.0.21"
   },
   "devDependencies": {
-    "cypress": "^9.4.1"
+    "cypress": "^9.5.0"
   }
 }
